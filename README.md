@@ -6,7 +6,6 @@ Welcome to my portfolio repository! This repository showcases the projects I hav
 
 - [About Me](#about-me)
 - [Projects](#projects)
-- [Skills](#skills)
 - [Contact Information](#contact-information)
 
 ## About Me
