@@ -20,7 +20,7 @@ Here are some of the projects I have worked on: Cat-Dog Recognizer, Digit Recogn
 ## Contact Information
 
 - Email: danielreznik45@gmail.com
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/danylo-reznyk-2b6a92237/))
+- LinkedIn: https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/danylo-reznyk-2b6a92237/
 
 
 Thank you for visiting my portfolio repository. I hope you find my projects and skills inspiring and informative.
